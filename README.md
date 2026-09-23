@@ -1,4 +1,4 @@
-# MERN RAG System
+# AI Powered Document Intelligence Platform
 
 A production-shaped RAG (Retrieval-Augmented Generation) pipeline built on
 Express, MongoDB Atlas Vector Search, and React — the MERN port of the
